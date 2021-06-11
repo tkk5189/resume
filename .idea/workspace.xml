@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="52743eb7-07b5-44a3-aeaa-9262b374ad2e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\The Beast\MyWebsite\resume" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +43,7 @@
       <workItem from="1623106362416" duration="2201000" />
       <workItem from="1623158499638" duration="3937000" />
       <workItem from="1623367819162" duration="2605000" />
-      <workItem from="1623415439312" duration="1246000" />
+      <workItem from="1623415439312" duration="2200000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1623084386188</created>
@@ -67,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623369823196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="file rearange">
+      <created>1623419729953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623419729953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +91,7 @@
     <MESSAGE value="more work" />
     <MESSAGE value="added technologies" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="file rearange" />
+    <option name="LAST_COMMIT_MESSAGE" value="file rearange" />
   </component>
 </project>
