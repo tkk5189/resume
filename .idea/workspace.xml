@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="52743eb7-07b5-44a3-aeaa-9262b374ad2e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/portfolio-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,8 @@
       <workItem from="1623074061551" duration="12285000" />
       <workItem from="1623106362416" duration="2201000" />
       <workItem from="1623158499638" duration="3937000" />
-      <workItem from="1623367819162" duration="1992000" />
+      <workItem from="1623367819162" duration="2605000" />
+      <workItem from="1623415439312" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1623084386188</created>
@@ -61,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623112012112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final">
+      <created>1623369823196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623369823196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +77,7 @@
     <MESSAGE value="inital commit" />
     <MESSAGE value="more work" />
     <MESSAGE value="added technologies" />
-    <option name="LAST_COMMIT_MESSAGE" value="added technologies" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
