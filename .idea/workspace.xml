@@ -52,7 +52,7 @@
       <workItem from="1623415439312" duration="2561000" />
       <workItem from="1627768881460" duration="351000" />
       <workItem from="1627923304551" duration="25000" />
-      <workItem from="1629306088578" duration="866000" />
+      <workItem from="1629306088578" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1623084386188</created>
@@ -117,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629306276437</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;fixed resume and about AUG 2021">
+      <created>1629306969209</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629306969209</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed email tag">
+      <created>1629307094890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629307094890</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,18 +146,20 @@
     <MESSAGE value="file rearange" />
     <MESSAGE value="added favicon" />
     <MESSAGE value="fixed title to Trevor Knox Resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed title to Trevor Knox Resume" />
+    <MESSAGE value="&#10;fixed resume and about AUG 2021" />
+    <MESSAGE value="fixed email tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed email tag" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1629306968758">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1629307094439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="115" key="CommitChangelistDialog2/-1920.233.1920.1040/0.0.1920.1040/1920.234.1920.1040@0.0.1920.1040" timestamp="1627769015963" />
-    <state x="585" y="115" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629306968758" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1629306973744">
+    <state x="585" y="115" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629307094439" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1629307102308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1920.233.1920.1040/0.0.1920.1040/1920.234.1920.1040@0.0.1920.1040" timestamp="1627769029862" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629306973744" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629307102308" />
   </component>
 </project>
