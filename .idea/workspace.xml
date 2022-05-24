@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52743eb7-07b5-44a3-aeaa-9262b374ad2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Personal/assets/img/linkedinpic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Personal/assets/img/linkedinpic_cropped.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Personal/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1627768881460" duration="351000" />
       <workItem from="1627923304551" duration="25000" />
       <workItem from="1629306088578" duration="1077000" />
-      <workItem from="1653416439179" duration="2014000" />
+      <workItem from="1653416439179" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="inital commit">
       <created>1623084386188</created>
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629307094890</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated for start at Lockheed June 2022">
+      <created>1653418502111</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653418502111</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,18 +170,7 @@
     <MESSAGE value="fixed title to Trevor Knox Resume" />
     <MESSAGE value="&#10;fixed resume and about AUG 2021" />
     <MESSAGE value="fixed email tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed email tag" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1629307094439">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/-1920.233.1920.1040/0.0.1920.1040/1920.234.1920.1040@0.0.1920.1040" timestamp="1627769015963" />
-    <state x="585" y="115" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629307094439" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1629307102308">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1920.233.1920.1040/0.0.1920.1040/1920.234.1920.1040@0.0.1920.1040" timestamp="1627769029862" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1629307102308" />
+    <MESSAGE value="Updated for start at Lockheed June 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for start at Lockheed June 2022" />
   </component>
 </project>
